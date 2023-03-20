@@ -1,10 +1,10 @@
 import React from 'react'
 import '../styles.css';
 
-function Gallery() {
+function Resume() {
   return (
-    <div>Gallery</div>
+    <div>Resume</div>
   )
 }
 
-export default Gallery;
+export default Resume;
